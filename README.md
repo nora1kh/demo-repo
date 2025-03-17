@@ -1,2 +1,2 @@
 # demo-repo
-this is a demo for gh actions 
+this is a demo for github actions 
